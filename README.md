@@ -1,13 +1,19 @@
-## What is lock-kakaotalk?
-Simple kakaoTalk lock program for those who can not concentrate on work due to KakaoTalk PC version.
+## What is keep-jitouch?
+Simple jitouch keeping program for those who can not concentrate on work due to jitouch.
 
 ## Available OS
-Unix based OS (OSX, Ubuntu, ...)
+OS X
 
 ## How to use?
 
 Just type the code below in the linux terminal.
 
 ```bash
-curl -s https://raw.githubusercontent.com/chphch/lock-kakaotalk/master/lock-kakaotalk.sh | bash
+curl -s https://raw.githubusercontent.com/NamHyeongKeol/keep-jitouch/master/keep-jitouch.sh | bash
+```
+
+or
+
+```zsh
+curl -s https://raw.githubusercontent.com/NamHyeongKeol/keep-jitouch/master/keep-jitouch.sh | zsh
 ```
